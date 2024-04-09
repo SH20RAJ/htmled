@@ -68,6 +68,7 @@ If you're using `htmled` directly in the browser, it will be available as a glob
   console.log('Decoded HTML:', decoded);
 </script>
 ```
+[See Demo]('demo.html')
 
 ## API
 
