@@ -266,4 +266,9 @@ const htmled = {
 };
 
 
-module.exports = htmled;
+  // Export the object if in a Node.js environment
+  if (typeof module !== 'undefined' && module.exports) {
+    module.exports = htmled;
+  }
+
+export default htmled;
