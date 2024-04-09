@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["html", "entities", "encoding", "decoding"],
+  "keywords": [
+    "html",
+    "entities",
+    "encoding",
+    "decoding"
+  ],
   "author": "SH20RAJ",
   "license": "MIT",
   "repository": {
