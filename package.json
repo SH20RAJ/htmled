@@ -1,6 +1,6 @@
 {
   "name": "htmled",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple JavaScript library for encoding and decoding HTML entities.",
   "main": "htmled.mjs",
   "scripts": {
